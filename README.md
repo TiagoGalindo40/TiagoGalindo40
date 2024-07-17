@@ -1,4 +1,4 @@
-## Olá!! Eu sou Tiago Galindo 👋
+## Olá!!, Eu sou Tiago Galindo 👋
 - 🔭 Hoje estou trabalhando como Instrutor de TI no Grau Educacional
 - 🌱 Estudando sobre Scripts Powershell
 - 👯 I’m looking to collaborate on ...
