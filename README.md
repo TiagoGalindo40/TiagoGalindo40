@@ -1,5 +1,5 @@
 ## Olá!!, Eu sou Tiago Galindo 👋
-- 🔭 Hoje estou trabalhando como Instrutor de TI no Grau Educacional
+- 🔭 Hoje trabalho Instrutor de TI.
 - 🌱 Estudando sobre Scripts Powershell
 - 😄 Pronomes: ele/dele
 
