@@ -1,11 +1,11 @@
 ## Olá!!, Eu sou Tiago Galindo 👋
 - 🔭 Hoje trabalho como Instrutor de TI.
-- 🌱 Estudando sobre Scripts Powershell
+- 🌱 Estudando sobre Java Web
 - 😄 Pronomes: ele/dele
 - <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 43 years old and currently live in Brazil. I have basic English and have experience with HTML, CSS, Javascript, Powershell for creating Windows task automation scripts, I am also an IT Instructor at an educational institution, which helped to develop important skills such as creativity, communication, marketing, analytical skills, people management and proactivity.
+  - 💬 I am 44 years old and currently live in Brazil. I have basic English and have experience with HTML, CSS, Javascript, Powershell for creating Windows task automation scripts, I am also an IT Instructor at an educational institution, which helped to develop important skills such as creativity, communication, marketing, analytical skills, people management and proactivity.
 
   - ⚡ I like reading, as long as it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/.
 </details>
