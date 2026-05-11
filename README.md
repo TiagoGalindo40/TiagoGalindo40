@@ -20,6 +20,10 @@
 
 ###
 
+img {
+  display: inline;
+}
+
 <div style="display: inline"><br>
   <h3>Programming Languages</h3>
   <a link href="https://github.com/TiagoGalindo40">
