@@ -20,11 +20,7 @@
 
 ###
 
-img {
-  display: inline;
-}
-
-<div style="display: inline"><br>
+<div style="display: inline-block"><br>
   <h3>Programming Languages</h3>
   <a link href="https://github.com/TiagoGalindo40">
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
