@@ -1,47 +1,162 @@
-## Olá!!, Eu sou Tiago Galindo 👋
-- 🔭 Hoje trabalho como Instrutor de TI.
-- 🌱 Estudando sobre Java Web
-- 😄 Pronomes: ele/dele
-- <details>
-  <summary>👨‍💻 More about me</summary>
+<div align="center">
 
-  - 💬 I am 44 years old and currently live in Brazil. I have basic English and have experience with HTML, CSS, Javascript, Powershell for creating Windows task automation scripts, I am also an IT Instructor at an educational institution, which helped to develop important skills such as creativity, communication, marketing, analytical skills, people management and proactivity.
+# 👨‍💻 Tiago Galindo
 
-  - ⚡ I like reading, as long as it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/.
-</details>
+### 🚀 Back-end Developer | PHP Specialist | Analista de Sistemas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoGalindo40&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TiagoGalindo40&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=TiagoGalindo40&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoGalindo40&radius=16&theme=radical&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+Profissional;Especialista+em+PHP+e+MySQL;Criando+Sistemas+Web+Modernos;Automação+e+Performance+de+Aplicações" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TiagoGalindo40&label=Visualizações&color=0e75b6&style=for-the-badge" />
+
 </div>
 
-###
+---
 
-<div style="display: inline-block"><br>
-  <h3>Programming Languages</h3>
-  <a link href="https://github.com/TiagoGalindo40">
-  <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-Powershell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
-   </a>
+# 💫 Sobre Mim
+
+```php
+<?php
+
+class TiagoGalindo {
+
+    public string $cargo = "Analista de Sistemas";
+    public string $especialidade = "Back-end Developer";
+
+    public array $stack = [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "Tailwind CSS",
+        "APIs REST",
+        "MVC"
+    ];
+
+    public function objetivo(): string
+    {
+        return "Desenvolver sistemas robustos, modernos e escaláveis.";
+    }
+}
+
+?>
+```
+
+---
+
+# 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,tailwind,nodejs,git,github,vscode" />
+
 </div>
 
-##
+---
 
-<div style="display: inline">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Azure" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
-    <img align="center" alt="Powershell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg">
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGalindo40&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
-  
-##
 
-<div> 
-  <a href = "mailto:tsuporte0201@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiagogalindo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TiagoGalindo40&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TiagoGalindo40&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 💼 Projetos em Destaque
+
+## 📌 CRM de Orçamentos
+
+✔ Sistema completo em PHP puro  
+✔ Login e autenticação com sessão  
+✔ Dashboard administrativo  
+✔ Cadastro de clientes  
+✔ Geração de propostas  
+✔ Banco de dados MySQL  
+✔ Tailwind CSS moderno  
+
+---
+
+## 📌 Sistema Financeiro
+
+✔ Controle financeiro empresarial  
+✔ Gestão de receitas e despesas  
+✔ Relatórios administrativos  
+✔ Controle de usuários  
+✔ Painel analítico  
+
+---
+
+# ⚡ Stack Principal
+
+<div align="center">
+
+| Back-end | Banco de Dados | Front-end | Ferramentas |
+|---|---|---|---|
+| PHP | MySQL | HTML5 | Git |
+| APIs REST | SQL | CSS3 | GitHub |
+| MVC | Modelagem DB | JavaScript | VSCode |
+| Node.js | PostgreSQL | Tailwind CSS | Xampp |
+
+</div>
+
+---
+
+# 🌎 Contato
+
+<div align="center">
+
+<a href="https://github.com/TiagoGalindo40">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 Filosofia
+
+<div align="center">
+
+### “Transformando ideias em soluções inteligentes através da programação.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
 </div>
