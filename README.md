@@ -2,7 +2,7 @@
 
 # 👨‍💻 Tiago Galindo
 
-### 🚀 Back-end Developer | PHP Specialist | Analista de Sistemas
+### 🚀 Back-end Developer | Java Iniciante | Analista de Sistemas
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+Profissional;Especialista+em+PHP+e+MySQL;Criando+Sistemas+Web+Modernos;Automação+e+Performance+de+Aplicações" />
 
