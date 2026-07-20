@@ -20,17 +20,18 @@
 <?php
 
 class TiagoGalindo {
-
+    public string $cargo atual = "Instrutor de TI"
     public string $cargo = "Analista de Sistemas";
     public string $especialidade = "Back-end Developer";
 
     public array $stack = [
-        "PHP",
-        "MySQL",
-        "JavaScript",
-        "Tailwind CSS",
+        "Java Developer",
+        "JPA Data",
         "APIs REST",
-        "MVC"
+        "HTML5",
+        "CCS3",
+        "Tailwind CSS"
+        "MySQL"
     ];
 
     public function objetivo(): string
