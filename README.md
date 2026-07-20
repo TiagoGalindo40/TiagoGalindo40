@@ -13,7 +13,7 @@
   <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
 
   <em>
-Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+Sou Instrutor de TI, graduado em Analise e Desenvolvimento de Sistema</strong> na <strong>Unicesumar - Caruaru-PE</strong>. Minha jornada na tecnologia começou quando em eu trabalhava em uma Assistência de Informática que era de um amigo do meu pai, chamado Augusto e aos meus 15 anos no qual eu adorava ficar configurando os PCs novos que chegavam para montar e instalar S.O eram enumeros disquetes e assim fui tomando gosto pela tecnologia e os desafios, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
   </em> 
   <br>
 <div align= "center">
