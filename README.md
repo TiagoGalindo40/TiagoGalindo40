@@ -1,163 +1,76 @@
-<div align="center">
+<h1 align="center">Oii, eu sou a Julia Krisnarane 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 
-# 👨‍💻 Tiago Galindo
+<p align="center">
+  <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-### 🚀 Back-end Developer | Java Iniciante | Analista de Sistemas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+Profissional;Especialista+em+Java+e+JPA Data;Criando+Sistemas+Web+Modernos;Automação+e+Performance+de+Aplicações" />
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+
+  <em>
+Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+  </em> 
+  <br>
+<div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+</div>
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=TiagoGalindo40&label=Visualizações&color=0e75b6&style=for-the-badge" />
-
+  
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 </div>
-
----
-
-# 💫 Sobre Mim
-
-```php
-<?php
-
-class TiagoGalindo {
-    public string $cargo atual = "Instrutor de TI"
-    public string $cargo = "Analista de Sistemas";
-    public string $especialidade = "Back-end Developer";
-
-    public array $stack = [
-        "Java Developer",
-        "JPA Data",
-        "APIs REST",
-        "HTML5",
-        "CCS3",
-        "Tailwind CSS"
-        "MySQL"
-    ];
-
-    public function objetivo(): string
-    {
-        return "Desenvolver sistemas robustos, modernos e escaláveis.";
-    }
-}
-
-?>
-```
-
----
-
-# 🚀 Tecnologias
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,tailwind,nodejs,git,github,vscode" />
-
+  <a href="https://github.com/krisnarane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  </a>
 </div>
 
----
+<br>
+<br>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGalindo40&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TiagoGalindo40&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TiagoGalindo40&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 💼 Projetos em Destaque
-
-## 📌 CRM de Orçamentos
-
-✔ Sistema completo em PHP puro  
-✔ Login e autenticação com sessão  
-✔ Dashboard administrativo  
-✔ Cadastro de clientes  
-✔ Geração de propostas  
-✔ Banco de dados MySQL  
-✔ Tailwind CSS moderno  
-
----
-
-## 📌 Sistema Financeiro
-
-✔ Controle financeiro empresarial  
-✔ Gestão de receitas e despesas  
-✔ Relatórios administrativos  
-✔ Controle de usuários  
-✔ Painel analítico  
-
----
-
-# ⚡ Stack Principal
-
-<div align="center">
-
-| Back-end | Banco de Dados | Front-end | Ferramentas |
-|---|---|---|---|
-| PHP | MySQL | HTML5 | Git |
-| APIs REST | SQL | CSS3 | GitHub |
-| MVC | Modelagem DB | JavaScript | VSCode |
-| Node.js | PostgreSQL | Tailwind CSS | Xampp |
-
-</div>
-
----
-
-# 🌎 Contato
-
-<div align="center">
-
-<a href="https://github.com/TiagoGalindo40">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🧠 Filosofia
-
-<div align="center">
-
-### “Transformando ideias em soluções inteligentes através da programação.”
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
-
-</div>
+- 📫 Contato: **jkrisnarane@gmail.com**
