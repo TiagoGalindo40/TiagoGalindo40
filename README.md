@@ -73,4 +73,4 @@ Sou Instrutor de TI, graduado em Analise e Desenvolvimento de Sistema</strong> n
 <br>
 <br>
 
-- 📫 Contato: **jkrisnarane@gmail.com**
+- 📫 Contato: **<a href="mailto:tgalindo29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>**
