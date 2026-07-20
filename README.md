@@ -1,4 +1,4 @@
-<h1 align="center">Oii, eu sou Tiago Galindo <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center">Oi, eu sou Tiago Galindo </h1>
 <h3 align="center">Analista de Sistemas | Back-End Java Developer | HTML5 | CSS | Node.JS | </h3>
 
 <p align="center">
