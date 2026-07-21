@@ -57,9 +57,8 @@ Sou Instrutor de TI, graduado em Analise e Desenvolvimento de Sistema</strong> n
   <br>
   </div>
 
-<legend align="center">📊 Minhas Estatísticas no GitHub</legend>
-
-<div align="center">
+<legend align="left">📊 Minhas Estatísticas no GitHub</legend>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGalindo40&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </div>
