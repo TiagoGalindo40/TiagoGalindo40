@@ -55,8 +55,7 @@ Sou Instrutor de TI, graduado em Analise e Desenvolvimento de Sistema</strong> n
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
   </kbd>
   <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
-</div>
+  </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tiagogalindo/">
