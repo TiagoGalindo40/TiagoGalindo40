@@ -57,7 +57,7 @@ Sou Instrutor de TI, graduado em Analise e Desenvolvimento de Sistema</strong> n
   <br>
   </div>
 
-<legend align="left">📊 Minhas Estatísticas no GitHub</legend>
+<legend align="center">📊 Minhas Estatísticas no GitHub</legend>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
