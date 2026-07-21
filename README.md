@@ -63,6 +63,8 @@ Sou Instrutor de TI, graduado em Analise e Desenvolvimento de Sistema</strong> n
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGalindo40&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoGalindo40&theme=dracula" alt="GitHub Streak" />
 </div>
 
 <br>
