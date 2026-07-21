@@ -1,66 +1,163 @@
-<h1 align="center">Oi, eu sou Tiago Galindo </h1>
-<h3 align="center">Analista de Sistemas | Back-End Java Developer | HTML5 | CSS | Node.JS | </h3>
+# Olá, eu sou Tiago Galindo! 👋
 
 <p align="center">
-  <a href="mailto:tgalindo29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/TiagoGalindo40/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&lines=Analista+de+Sistemas;Back-End+Java+Developer;Instrutor+de+TI;Apaixonado+por+Tecnologia+e+Desenvolvimento" />
 </p>
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+---
 
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+# 👨🏻‍💻 Sobre Mim
 
-  <em>
-Sou Instrutor de TI, graduado em Analise e Desenvolvimento de Sistema</strong> na <strong>Unicesumar - Caruaru-PE</strong>. Minha jornada na tecnologia começou quando em eu trabalhava em uma Assistência de Informática que era de um amigo do meu pai, chamado Augusto e aos meus 15 anos no qual eu adorava ficar configurando os PCs novos que chegavam para montar e instalar S.O eram enumeros disquetes e assim fui tomando gosto pela tecnologia e os desafios, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
-  </em> 
-  <br>
-<div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Stacks já adquiridas</i></b> 
-</div>
+Olá! Sou **Tiago Galindo**, Analista de Sistemas, Instrutor de TI e apaixonado por tecnologia.
 
-<br>
-  
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>      
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Outros</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-  </kbd>
-  <br>
-  </div>
+Sou graduado em **Análise e Desenvolvimento de Sistemas** pela **Unicesumar – Caruaru/PE**.
 
-<legend align="left">📊 Minhas Estatísticas no GitHub</legend>
-[![card](https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+Minha paixão pela informática começou aos **15 anos**, quando trabalhava em uma assistência técnica de informática pertencente a um amigo do meu pai, Augusto.
 
-<br>
-<br>
+Foi ali que comecei configurando computadores novos, instalando sistemas operacionais (na época utilizando inúmeros disquetes 😄), montando máquinas e solucionando problemas. Essa experiência despertou meu interesse pela tecnologia e pelos desafios da área, construindo uma base sólida que hoje aplico no desenvolvimento de software.
 
-- 📫 Contato: **<a href="mailto:tgalindo29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>**
+Hoje meu foco é o desenvolvimento **Back-End**, criando aplicações robustas, organizadas e escaláveis.
+
+---
+
+# 🚀 Tecnologias
+
+## 💻 Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,php" />
+</p>
+
+---
+
+## 🎨 Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" />
+</p>
+
+---
+
+## ⚙️ Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+---
+
+## 📚 Frameworks & Bibliotecas
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,express,junit" />
+</p>
+
+---
+
+## 🛠 Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven,gradle,docker" />
+</p>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGalindo40&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoGalindo40&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Troféus
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TiagoGalindo40&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Gráfico de Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoGalindo40&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📚 Atualmente estudando
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 APIs REST
+- 🧪 Testes Unitários com JUnit
+- 🐳 Docker
+- ☁️ Cloud Computing
+- 🔐 Segurança de Aplicações
+
+---
+
+# 💼 Objetivos
+
+✔ Desenvolver aplicações escaláveis
+
+✔ Aprimorar conhecimentos em Java e Spring
+
+✔ Contribuir com projetos Open Source
+
+✔ Compartilhar conhecimento como Instrutor de TI
+
+---
+
+# 📫 Contato
+
+<p>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/TiagoGalindo40">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Frase
+
+> "A tecnologia move o mundo, mas é a curiosidade que move quem a desenvolve."
+
+---
+
+<p align="center">
+
+### Obrigado pela visita!
+
+⭐ Se gostou de algum projeto, deixe uma estrela.
+
+</p>
