@@ -58,14 +58,7 @@ Sou Instrutor de TI, graduado em Analise e Desenvolvimento de Sistema</strong> n
   </div>
 
 <legend align="left">📊 Minhas Estatísticas no GitHub</legend>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGalindo40&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoGalindo40&theme=dracula" alt="GitHub Streak" />
-</div>
+[![card](https://github-readme-stats.vercel.app/api?username=TiagoGalindo40&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
